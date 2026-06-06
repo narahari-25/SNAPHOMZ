@@ -138,6 +138,34 @@ SnapReport/
 
 ## Setup Instructions
 
+## Environment Variables
+
+The backend requires a Groq API key to generate AI-powered market narratives.
+
+Create a file named `.env` inside the `backend` directory:
+
+```env
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+### Obtaining a Groq API Key
+
+1. Create an account at https://console.groq.com
+2. Navigate to API Keys
+3. Generate a new API key
+4. Copy the key into your `.env` file
+
+### Security Note
+
+The `.env` file is intentionally excluded from version control and is not included in this repository.
+
+For deployment platforms such as Render, Railway, or Vercel, configure the following environment variable in the platform dashboard:
+
+```env
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+
 ### Backend
 
 Install dependencies:
