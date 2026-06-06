@@ -1,0 +1,252 @@
+{
+  "90026": {
+    "city": "Echo Park",
+    "state": "CA",
+    "median_price": "$1,100,000",
+    "days_on_market": "24",
+    "list_to_sale_ratio": "101.2%",
+    "new_listings": "31",
+    "inventory": "1.8 months",
+    "trend": "Fast-moving market with high buyer competition."
+  },
+  "90210": {
+    "city": "Beverly Hills",
+    "state": "CA",
+    "median_price": "$2,400,000",
+    "days_on_market": "38",
+    "list_to_sale_ratio": "97.8%",
+    "new_listings": "42",
+    "inventory": "3.1 months",
+    "trend": "Stable luxury market with selective buyer activity."
+  },
+  "94103": {
+    "city": "San Francisco",
+    "state": "CA",
+    "median_price": "$1,320,000",
+    "days_on_market": "29",
+    "list_to_sale_ratio": "99.4%",
+    "new_listings": "56",
+    "inventory": "2.2 months",
+    "trend": "Urban demand is improving with more active buyers."
+  },
+  "10001": {
+    "city": "New York",
+    "state": "NY",
+    "median_price": "$1,180,000",
+    "days_on_market": "35",
+    "list_to_sale_ratio": "98.9%",
+    "new_listings": "61",
+    "inventory": "2.7 months",
+    "trend": "Balanced market with strong condo activity."
+  },
+  "33139": {
+    "city": "Miami Beach",
+    "state": "FL",
+    "median_price": "$950,000",
+    "days_on_market": "41",
+    "list_to_sale_ratio": "96.8%",
+    "new_listings": "48",
+    "inventory": "3.4 months",
+    "trend": "Inventory is rising while premium homes still attract demand."
+  },
+  "60614": {
+    "city": "Chicago",
+    "state": "IL",
+    "median_price": "$725,000",
+    "days_on_market": "27",
+    "list_to_sale_ratio": "100.1%",
+    "new_listings": "39",
+    "inventory": "2.0 months",
+    "trend": "Seller-friendly conditions with quick-moving family homes."
+  },
+  "78704": {
+    "city": "Austin",
+    "state": "TX",
+    "median_price": "$890,000",
+    "days_on_market": "33",
+    "list_to_sale_ratio": "98.1%",
+    "new_listings": "44",
+    "inventory": "2.9 months",
+    "trend": "Demand is steady after recent price corrections."
+  },
+  "98101": {
+    "city": "Seattle",
+    "state": "WA",
+    "median_price": "$840,000",
+    "days_on_market": "25",
+    "list_to_sale_ratio": "100.6%",
+    "new_listings": "37",
+    "inventory": "1.9 months",
+    "trend": "Low inventory is keeping competition high."
+  },
+  "02108": {
+    "city": "Boston",
+    "state": "MA",
+    "median_price": "$1,050,000",
+    "days_on_market": "30",
+    "list_to_sale_ratio": "99.7%",
+    "new_listings": "28",
+    "inventory": "2.1 months",
+    "trend": "Historic neighborhoods remain resilient with limited supply."
+  },
+  "20001": {
+    "city": "Washington",
+    "state": "DC",
+    "median_price": "$780,000",
+    "days_on_market": "32",
+    "list_to_sale_ratio": "98.4%",
+    "new_listings": "34",
+    "inventory": "2.6 months",
+    "trend": "Moderate buyer activity with stable pricing."
+  },
+  "30309": {
+    "city": "Atlanta",
+    "state": "GA",
+    "median_price": "$615,000",
+    "days_on_market": "22",
+    "list_to_sale_ratio": "100.3%",
+    "new_listings": "52",
+    "inventory": "1.7 months",
+    "trend": "Strong demand and limited supply are supporting sellers."
+  },
+  "80202": {
+    "city": "Denver",
+    "state": "CO",
+    "median_price": "$690,000",
+    "days_on_market": "34",
+    "list_to_sale_ratio": "97.6%",
+    "new_listings": "46",
+    "inventory": "3.0 months",
+    "trend": "Buyers are negotiating more, but well-priced homes move quickly."
+  },
+  "85004": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "median_price": "$510,000",
+    "days_on_market": "36",
+    "list_to_sale_ratio": "97.9%",
+    "new_listings": "58",
+    "inventory": "3.3 months",
+    "trend": "More inventory is giving buyers additional options."
+  },
+  "97209": {
+    "city": "Portland",
+    "state": "OR",
+    "median_price": "$625,000",
+    "days_on_market": "31",
+    "list_to_sale_ratio": "98.8%",
+    "new_listings": "29",
+    "inventory": "2.5 months",
+    "trend": "Stable demand with selective competition."
+  },
+  "37203": {
+    "city": "Nashville",
+    "state": "TN",
+    "median_price": "$590,000",
+    "days_on_market": "28",
+    "list_to_sale_ratio": "99.2%",
+    "new_listings": "43",
+    "inventory": "2.3 months",
+    "trend": "Relocation demand continues to support the market."
+  },
+  "28202": {
+    "city": "Charlotte",
+    "state": "NC",
+    "median_price": "$545,000",
+    "days_on_market": "23",
+    "list_to_sale_ratio": "100.5%",
+    "new_listings": "49",
+    "inventory": "1.9 months",
+    "trend": "Fast-growing job market is supporting housing demand."
+  },
+  "89109": {
+    "city": "Las Vegas",
+    "state": "NV",
+    "median_price": "$480,000",
+    "days_on_market": "39",
+    "list_to_sale_ratio": "96.9%",
+    "new_listings": "54",
+    "inventory": "3.5 months",
+    "trend": "More listings are creating a slightly more buyer-friendly market."
+  },
+  "19103": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "median_price": "$520,000",
+    "days_on_market": "29",
+    "list_to_sale_ratio": "99.1%",
+    "new_listings": "33",
+    "inventory": "2.4 months",
+    "trend": "Well-located homes continue to attract consistent interest."
+  },
+  "55401": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "median_price": "$430,000",
+    "days_on_market": "26",
+    "list_to_sale_ratio": "100.0%",
+    "new_listings": "35",
+    "inventory": "2.0 months",
+    "trend": "Balanced activity with steady seller confidence."
+  },
+  "15222": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "median_price": "$365,000",
+    "days_on_market": "25",
+    "list_to_sale_ratio": "99.8%",
+    "new_listings": "27",
+    "inventory": "1.8 months",
+    "trend": "Affordable pricing is keeping buyer demand active."
+  },
+  "92101": {
+    "city": "San Diego",
+    "state": "CA",
+    "median_price": "$910,000",
+    "days_on_market": "27",
+    "list_to_sale_ratio": "100.7%",
+    "new_listings": "45",
+    "inventory": "2.1 months",
+    "trend": "Coastal demand remains strong with tight inventory."
+  },
+  "32801": {
+    "city": "Orlando",
+    "state": "FL",
+    "median_price": "$420,000",
+    "days_on_market": "30",
+    "list_to_sale_ratio": "98.6%",
+    "new_listings": "50",
+    "inventory": "2.8 months",
+    "trend": "Investor and relocation demand remain steady."
+  },
+  "63101": {
+    "city": "St. Louis",
+    "state": "MO",
+    "median_price": "$310,000",
+    "days_on_market": "24",
+    "list_to_sale_ratio": "99.9%",
+    "new_listings": "32",
+    "inventory": "1.9 months",
+    "trend": "Affordable homes are moving quickly."
+  },
+  "70130": {
+    "city": "New Orleans",
+    "state": "LA",
+    "median_price": "$455,000",
+    "days_on_market": "37",
+    "list_to_sale_ratio": "97.4%",
+    "new_listings": "30",
+    "inventory": "3.2 months",
+    "trend": "Buyers are more cautious, but unique homes still perform well."
+  },
+  "43215": {
+    "city": "Columbus",
+    "state": "OH",
+    "median_price": "$390,000",
+    "days_on_market": "21",
+    "list_to_sale_ratio": "101.0%",
+    "new_listings": "41",
+    "inventory": "1.6 months",
+    "trend": "Low inventory is pushing strong competition."
+  }
+}
